@@ -1,2 +1,1 @@
-# cavis-web
-Initial website setup
+# cavi-site
